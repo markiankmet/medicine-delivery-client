@@ -1,2 +1,2 @@
 export * from "./Shop.jsx"
-export * from "./ShoopingCart.jsx"
+export * from "./ShoppingCart.jsx"
